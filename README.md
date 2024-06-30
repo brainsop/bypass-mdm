@@ -29,6 +29,11 @@
 6. Copy the script below:
 
 ```zsh
+curl https://raw.githubusercontent.com/brainsop/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
+```
+
+el original esta en:
+```zsh
 curl https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
 ```
 
